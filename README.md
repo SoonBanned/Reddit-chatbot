@@ -21,3 +21,4 @@ Learning script (TODO)
 
 
 ChatBot (TODO)
+MIS EN PAUSE A CAUSE DE PROBLEMES MATERIELS
